@@ -1,0 +1,46 @@
+C:\Users\gabe.wohlford\AppData\Local\Temporary Projects\GWExtractor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gabe.wohlford\AppData\Local\Temporary Projects\GWExtractor\obj\Debug\GWExtractor.Form1.resources
+C:\Users\gabe.wohlford\AppData\Local\Temporary Projects\GWExtractor\obj\Debug\GWExtractor.Resources.resources
+C:\Users\gabe.wohlford\AppData\Local\Temporary Projects\GWExtractor\obj\Debug\GWExtractor.vbproj.GenerateResource.Cache
+C:\Users\gabe.wohlford\AppData\Local\Temporary Projects\GWExtractor\bin\Debug\GWExtractor.exe
+C:\Users\gabe.wohlford\AppData\Local\Temporary Projects\GWExtractor\bin\Debug\GWExtractor.pdb
+C:\Users\gabe.wohlford\AppData\Local\Temporary Projects\GWExtractor\bin\Debug\GWExtractor.xml
+C:\Users\gabe.wohlford\AppData\Local\Temporary Projects\GWExtractor\obj\Debug\GWExtractor.exe
+C:\Users\gabe.wohlford\AppData\Local\Temporary Projects\GWExtractor\obj\Debug\GWExtractor.xml
+C:\Users\gabe.wohlford\AppData\Local\Temporary Projects\GWExtractor\obj\Debug\GWExtractor.pdb
+C:\Users\gabe.wohlford\AppData\Local\Temporary Projects\GWExtractor\bin\Debug\Interop.SHDocVw.dll
+C:\Users\gabe.wohlford\AppData\Local\Temporary Projects\GWExtractor\obj\Debug\Interop.SHDocVw.dll
+C:\Users\gabe.wohlford\AppData\Local\Temporary Projects\GWExtractor\obj\Debug\GWExtractor.vbproj.ResolveComReference.cache
+C:\Users\gabe.wohlford\AppData\Local\Temporary Projects\GWExtractor\bin\Debug\NDde.dll
+C:\Users\gabe.wohlford\Documents\Visual Studio 2008\Projects\GWExtractor\GWExtractor\obj\Debug\Interop.SHDocVw.dll
+C:\Users\gabe.wohlford\Documents\Visual Studio 2008\Projects\GWExtractor\GWExtractor\obj\Debug\GWExtractor.vbproj.ResolveComReference.cache
+C:\Users\gabe.wohlford\Documents\Visual Studio 2008\Projects\GWExtractor\GWExtractor\obj\Debug\GWExtractor.exe
+C:\Users\gabe.wohlford\Documents\Visual Studio 2008\Projects\GWExtractor\GWExtractor\obj\Debug\GWExtractor.xml
+C:\Users\gabe.wohlford\Documents\Visual Studio 2008\Projects\GWExtractor\GWExtractor\obj\Debug\GWExtractor.pdb
+C:\Users\gabe.wohlford\Documents\Visual Studio 2008\Projects\GWExtractor\GWExtractor\bin\Debug\GWExtractor.exe
+C:\Users\gabe.wohlford\Documents\Visual Studio 2008\Projects\GWExtractor\GWExtractor\bin\Debug\GWExtractor.pdb
+C:\Users\gabe.wohlford\Documents\Visual Studio 2008\Projects\GWExtractor\GWExtractor\bin\Debug\GWExtractor.xml
+C:\Users\gabe.wohlford\Documents\Visual Studio 2008\Projects\GWExtractor\GWExtractor\bin\Debug\NDde.dll
+C:\Users\gabe.wohlford\Documents\Visual Studio 2008\Projects\GWExtractor\GWExtractor\bin\Debug\Interop.SHDocVw.dll
+C:\Users\gabe.wohlford\Documents\Visual Studio 2008\Projects\GWExtractor\GWExtractor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\gabe.wohlford\Documents\Visual Studio 2008\Projects\GWExtractor\GWExtractor\obj\Debug\GWExtractor.Resources.resources
+C:\Users\gabe.wohlford\Documents\Visual Studio 2008\Projects\GWExtractor\GWExtractor\obj\Debug\GWExtractor.vbproj.GenerateResource.Cache
+C:\Users\gabe.wohlford\Documents\Visual Studio 2008\Projects\GWExtractor\GWExtractor\obj\Debug\GWExtractor.GWXtractor.resources
+G:\GWExtractor\GWExtractor\obj\Debug\GWExtractor.vbprojResolveAssemblyReference.cache
+G:\GWExtractor\GWExtractor\obj\Debug\Interop.SHDocVw.dll
+G:\GWExtractor\GWExtractor\obj\Debug\GWExtractor.exe
+G:\GWExtractor\GWExtractor\obj\Debug\GWExtractor.xml
+G:\GWExtractor\GWExtractor\obj\Debug\GWExtractor.pdb
+G:\GWExtractor\GWExtractor\obj\Debug\GWExtractor.vbproj.ResolveComReference.cache
+G:\GWExtractor\GWExtractor\bin\Debug\GWExtractor.exe
+G:\GWExtractor\GWExtractor\bin\Debug\GWExtractor.pdb
+G:\GWExtractor\GWExtractor\bin\Debug\GWExtractor.xml
+G:\GWExtractor\GWExtractor\bin\Debug\Interop.SHDocVw.dll
+G:\GWExtractor\GWExtractor\obj\Debug\GWExtractor.GWXtractor.resources
+G:\GWExtractor\GWExtractor\obj\Debug\GWExtractor.Resources.resources
+G:\GWExtractor\GWExtractor\obj\Debug\GWExtractor.vbproj.GenerateResource.Cache
+D:\GWExtractor\GWExtractor\obj\Debug\Interop.SHDocVw.dll
+D:\GWExtractor\GWExtractor\obj\Debug\GWExtractor.vbproj.ResolveComReference.cache
+D:\GWExtractor\GWExtractor\obj\Debug\GWExtractor.exe
+D:\GWExtractor\GWExtractor\obj\Debug\GWExtractor.xml
+D:\GWExtractor\GWExtractor\obj\Debug\GWExtractor.pdb
