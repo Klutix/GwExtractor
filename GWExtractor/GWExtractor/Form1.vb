@@ -14,9 +14,6 @@ Public Class GWXtractor
 
     Dim mstrFilePath As String
 
-
-
-
     '=========================FIREFOX=================================
     'For firefox ; Download the library from http://ndde.codeplex.com/ 
     Public Shared Function GetFirefoxUrl() As String
@@ -32,8 +29,6 @@ Public Class GWXtractor
         RichTextBox1.Text = getPageSource(txtUrl.Text)
         mstrSourceCode = RichTextBox1.Text
         Parse_Source()
-        
-
     End Sub
 
     Function getPageSource(ByVal url As String) As String
@@ -164,7 +159,6 @@ Public Class GWXtractor
                 Loop
                 Write_Excel(strTitle, strPrice, strDescription, strUPC, strSKU, strMPN, strMPrice, txtUrl.Text)
 
-
                 mExcelApp = Nothing
                 mExcelWB = Nothing
                 mExcelWS = Nothing
@@ -244,7 +238,6 @@ Public Class GWXtractor
         Catch ex As Exception
 
         End Try
-
 
     End Function
 
