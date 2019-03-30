@@ -6,13 +6,13 @@ Imports System.IO
 Imports Microsoft.Office.Interop
 
 Public Class GWXtractor
-    Dim mstrURL As String
-    Dim mstrSourceCode As String
+    
+   
     Dim mExcelApp As Excel.Application
     Dim mExcelWB As Excel.Workbook
     Dim mExcelWS As Excel.Worksheet
 
-    Dim mstrFilePath As String
+    
 
     '=========================FIREFOX=================================
     'For firefox ; Download the library from http://ndde.codeplex.com/ 
