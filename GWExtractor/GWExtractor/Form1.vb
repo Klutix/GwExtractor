@@ -27,7 +27,6 @@ Public Class GWXtractor
     Private Sub BtnGrab_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles BtnGrab.Click
         txtUrl.Text = (GetFirefoxUrl())
         RichTextBox1.Text = getPageSource(txtUrl.Text)
-        mstrSourceCode = RichTextBox1.Text
         Parse_Source()
     End Sub
 
