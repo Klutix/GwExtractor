@@ -39,14 +39,15 @@ Public Class GWXtractor
             Dim request As System.Net.HttpWebRequest = System.Net.HttpWebRequest.Create(url)
             Dim response As System.Net.HttpWebResponse = request.GetResponse()
             Dim sr As System.IO.StreamReader = New System.IO.StreamReader(response.GetResponseStream())
-
-            sourcecode = sr.ReadToEnd()
+            
+            'return source code
+            return sr.ReadToEnd()
 
         Catch ex As Exception
             MsgBox(ex.Message)
         End Try
 
-        Return sourcecode
+        
 
     End Function
     ' for 'Internet explorer'
