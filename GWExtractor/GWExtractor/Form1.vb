@@ -117,11 +117,7 @@ Public Class GWXtractor
                             txtTitle.Text = strTitle
                         End If
 
-                        'grab Description
-
-                        'grab SKU
-
-                        'grab UPC
+                      
                         If (strLine.Contains("gtin13")) Then
                             'Grabs the begging of all relavent into variable so for a cleaner starting point
                             strRemainingString = strLine.Substring(InStr(strLine, "gtin13") + 7)
